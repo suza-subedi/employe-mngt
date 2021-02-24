@@ -1,0 +1,13 @@
+
+--
+-- Dumping data for table `departments`
+--
+
+LOCK TABLES `departments` WRITE;
+
+INSERT INTO `departments` VALUES ('d009','Customer Service'),('d005','Development'),('d002','Finance'),('d003','Human Resources'),('d001','Marketing'),('d004','Production'),('d006','Quality Management'),('d008','Research'),('d007','Sales');
+
+UNLOCK TABLES;
+
+
+-- Dump completed on 2021-01-02 10:00:48

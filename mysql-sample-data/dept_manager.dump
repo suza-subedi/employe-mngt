@@ -1,0 +1,12 @@
+
+--
+-- Dumping data for table `dept_manager`
+--
+
+LOCK TABLES `dept_manager` WRITE;
+
+
+UNLOCK TABLES;
+
+
+-- Dump completed on 2021-01-02 10:01:20
